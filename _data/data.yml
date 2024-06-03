@@ -10,7 +10,6 @@ sidebar:
     # Profile information
     name: Jizdan Ianec
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jizdan.ianec17@gmail.com
@@ -61,7 +60,7 @@ career-profile:
       independently to complete tasks assigned by the leadership. Currently, I am a second-year
       student at the Polytechnic University of Timișoara, pursuing a degree in Automatics and
       Computers with a specialization in Informatics. Although I am originally from the Republic of
-      Moldova, I decided to study in Romania due to my strong interest in this field
+      Moldova, I decided to study in Romania due to my strong interest in this field.
 education:
     title: Informatics
     info:
@@ -73,6 +72,16 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Full-Stack Developer
+        time: 2023 ( November ) - Present
+        company: GAIM-SOLUTIONS
+        details: |
+          At this job, I've worked as a full-stack web/mobile developer. I've created some apps like: https://app-builder.gaim-solutions.com,
+          StoryTaim ( available on iOS and Android soon ), JobNinja ( a part of the code was written by me ) and a CV Matcher which
+          found the perfect job for you based on your CV. The frameworks and language programming which I am using are: python, JavaScript,
+          React, NextJS, React Native ( Tamagui framework ). I've worked with OpenAI's python package, which gave me access to ChatGPT and
+          used it in our apps.
+
       - role: Full-Stack Developer
         time: 2023 ( April ) - 2023 ( November )
         company: Memorator.md SRL, Moldova
