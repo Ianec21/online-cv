@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -13,8 +9,8 @@ sidebar:
 
     # Sidebar links
     email: jizdan.ianec17@gmail.com
-    phone: +40 728 466 283 / +373 799 45 171
-    timezone: Romania / Republic of Moldova
+    phone: "+40 728 466 283 / +373 799 45 171"
+    timezone: "Romania / Republic of Moldova"
     citizenship: Moldavian
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
@@ -23,8 +19,8 @@ sidebar:
     telegram: ianec21
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@webjeda' # wrapped in quotes
+    stack-overflow: # Number/Username, e.g. "123456/alandoe" (wrapped in quotes)
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -61,6 +57,7 @@ career-profile:
       student at the Polytechnic University of Timișoara, pursuing a degree in Automatics and
       Computers with a specialization in Informatics. Although I am originally from the Republic of
       Moldova, I decided to study in Romania due to my strong interest in this field.
+
 education:
     title: Informatics
     info:
@@ -97,12 +94,13 @@ experiences:
         time: 2023 ( January ) - 2023 ( April )
         company: Liveclass.ro SRL, Romania
         details: |
-          I worked as a front-end developer in a team of six people: three individuals focused on the frontend, and three on the back-end. My primary goal and task were centered around creating the
+          I worked as a front-end developer in a team of six people: three individuals focused on the front-end, and three on the back-end. My primary goal and task were centered around creating the
           website liveclass.ro. I held the responsibility of translating the design into code and ensuring its
           responsiveness across various devices. Throughout this process, my work was under the
           supervision of a senior developer with whom I collaborated closely, allowing me to acquire
           valuable insights into design principles and optimization techniques. During this experience, I
           utilized TypeScript and explored new tools like MUI, Axios, and Storybook
+
       - role: Full-Stack Developer
         time: 2022 (November) - 2023 (January)
         company: Matematica.md SRL, Moldova
@@ -132,7 +130,7 @@ projects:
         tagline: "An online platform to solve baccalaureate type exams. This project was a side job."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
       - name: Python
