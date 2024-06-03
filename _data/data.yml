@@ -12,18 +12,8 @@ sidebar:
     phone: "+40 728 466 283 / +373 799 45 171"
     timezone: "Romania / Republic of Moldova"
     citizenship: Moldavian
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
     github: Ianec21
     telegram: ianec21
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda' # wrapped in quotes
-    stack-overflow: # Number/Username, e.g. "123456/alandoe" (wrapped in quotes)
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -73,7 +63,7 @@ experiences:
         time: 2023 ( November ) - Present
         company: GAIM-SOLUTIONS
         details: |
-          At this job, I've worked as a full-stack web/mobile developer. I've created some apps like: https://app-builder.gaim-solutions.com,
+          At this job, I've worked as a full-stack web/mobile developer. I've created some apps like: app-builder.gaim-solutions.com,
           StoryTaim ( available on iOS and Android soon ), JobNinja ( a part of the code was written by me ) and a CV Matcher which
           found the perfect job for you based on your CV. The frameworks and language programming which I am using are: python, JavaScript,
           React, NextJS, React Native ( Tamagui framework ). I've worked with OpenAI's python package, which gave me access to ChatGPT and
@@ -122,8 +112,8 @@ projects:
         tagline: "A music application, like spotify created by using Next.js and Deezer's API for fetching tracks. ( WIP )"
 
       - title: My Racing Car
-        link: "#"
-        tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C# language as a university project."
+        link: "https://github.com/Ianec21/My-Racing-Car.git"
+        tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C# language as a university project. For now, you can only attach some parts on the car and drive it."
 
       - title: Test.MD
         link: "https://test.md/"
