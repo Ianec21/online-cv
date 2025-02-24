@@ -1,148 +1,147 @@
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jizdan Ianec
-    tagline: Full Stack Developer
+  # Profile information
+  name: Jizdan Ianec
+  tagline: Full Stack Developer
 
-    # Sidebar links
-    email: jizdan.ianec17@gmail.com
-    phone: "+40 728 466 283 / +373 799 45 171"
-    timezone: "Romania / Republic of Moldova"
-    citizenship: Moldavian
-    github: Ianec21
-    telegram: ianec21
+  # Sidebar links
+  email: jizdan.ianec17@gmail.com
+  phone: "+40 728 466 283 / +373 799 45 171"
+  timezone: "Romania / Republic of Moldova"
+  citizenship: Moldavian
+  github: Ianec21
+  telegram: ianec21
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Romanian
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: Romanian
+        level: Native
 
-        - idiom: English
-          level: Professional
+      - idiom: English
+        level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Mountain Biking
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Mountain Biking
+        link:
 
-        - item: Cars
-          link:
+      - item: Cars
+        link:
 
-        - item: Mechanics
-          link:
+      - item: Mechanics
+        link:
 
-        - item: Video Games
-          link:
+      - item: Video Games
+        link:
+
+      - item: Game Development
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I want to develop my professional career in an IT company where I can work both in a team and
-      independently to complete tasks assigned by the leadership. Currently, I am a second-year
-      student at the Polytechnic University of Timișoara, pursuing a degree in Automatics and
-      Computers with a specialization in Informatics. Although I am originally from the Republic of
-      Moldova, I decided to study in Romania due to my strong interest in this field.
+  title: Career Profile
+  summary: |
+    I am eager to develop my professional career in an IT company where I can contribute both independently and as part of a team to achieve project goals. Currently, I am in my final year at the Polytechnic University of Timișoara, pursuing a degree in Automatics and Computers with a specialization in Informatics. Originally from the Republic of Moldova, I chose to study in Romania to deepen my knowledge and gain valuable experience in this dynamic field.
 
 education:
-    title: Informatics
-    info:
-      - degree: Specialised in Informatics
-        university: University Politehnica Timișoara
-        time: 2022 - Present
-        details: 
+  title: Informatics
+  info:
+    - degree: Specialised in Informatics
+      university: University Politehnica Timișoara
+      time: 2022 - Present
+      details:
 
 experiences:
-    title: Experiences
-    info:
-      - role: Full-Stack Developer
-        time: 2023 ( November ) - Present
-        company: GAIM-SOLUTIONS
-        details: |
-          At this job, I've worked as a full-stack web/mobile developer. I've created some apps like: app-builder.gaim-solutions.com,
-          StoryTaim ( available on iOS and Android soon ), JobNinja ( a part of the code was written by me ) and a CV Matcher which
-          found the perfect job for you based on your CV. The frameworks and language programming which I am using are: python, JavaScript,
-          React, NextJS, React Native ( Tamagui framework ). I've worked with OpenAI's python package, which gave me access to ChatGPT and
-          used it in our apps.
+  title: Experiences
+  info:
+    - role: Full-Stack Developer
+      time: 2023 ( November ) - Present
+      company: GAIM-SOLUTIONS
+      details: |
+        At this job, I've worked as a full-stack web/mobile developer. I've created some apps like: app-builder.gaim-solutions.com,
+        StoryTaim ( available on iOS and Android soon ), JobNinja ( a part of the code was written by me ) and a CV Matcher which
+        found the perfect job for you based on your CV. The frameworks and language programming which I am using are: python, JavaScript,
+        React, NextJS, React Native ( Tamagui framework ). I've worked with OpenAI's python package, which gave me access to ChatGPT and
+        used it in our apps.
 
-      - role: Full-Stack Developer
-        time: 2023 ( April ) - 2023 ( November )
-        company: Memorator.md SRL, Moldova
-        details: |
-          I was working on a mobile application for iOS and Android using React Native. This
-          application will be available on Appstore and Google Play Market. It will be useful for students
-          because in this app you can find any math, physics, or chemistry formula you need. I've used
-          React Native for the front end and Node.js for the back end. For this application, I've created an
-          admin panel too, in which you can modify the app content like adding formulas, categories, and
-          so on.
+    - role: Full-Stack Developer
+      time: 2023 ( April ) - 2023 ( November )
+      company: Memorator.md SRL, Moldova
+      details: |
+        I was working on a mobile application for iOS and Android using React Native. This
+        application will be available on Appstore and Google Play Market. It will be useful for students
+        because in this app you can find any math, physics, or chemistry formula you need. I've used
+        React Native for the front end and Node.js for the back end. For this application, I've created an
+        admin panel too, in which you can modify the app content like adding formulas, categories, and
+        so on.
 
-      - role: Front-End Developer
-        time: 2023 ( January ) - 2023 ( April )
-        company: Liveclass.ro SRL, Romania
-        details: |
-          I worked as a front-end developer in a team of six people: three individuals focused on the front-end, and three on the back-end. My primary goal and task were centered around creating the
-          website liveclass.ro. I held the responsibility of translating the design into code and ensuring its
-          responsiveness across various devices. Throughout this process, my work was under the
-          supervision of a senior developer with whom I collaborated closely, allowing me to acquire
-          valuable insights into design principles and optimization techniques. During this experience, I
-          utilized TypeScript and explored new tools like MUI, Axios, and Storybook
+    - role: Front-End Developer
+      time: 2023 ( January ) - 2023 ( April )
+      company: Liveclass.ro SRL, Romania
+      details: |
+        I worked as a front-end developer in a team of six people: three individuals focused on the front-end, and three on the back-end. My primary goal and task were centered around creating the
+        website liveclass.ro. I held the responsibility of translating the design into code and ensuring its
+        responsiveness across various devices. Throughout this process, my work was under the
+        supervision of a senior developer with whom I collaborated closely, allowing me to acquire
+        valuable insights into design principles and optimization techniques. During this experience, I
+        utilized TypeScript and explored new tools like MUI, Axios, and Storybook
 
-      - role: Full-Stack Developer
-        time: 2022 (November) - 2023 (January)
-        company: Matematica.md SRL, Moldova
-        details: |
-          The website made is matematica.md, this is a website builder in which you can also find an
-          admin panel. In the admin panel, the owner of this site can modify the content website, colors,
-          pictures, etc. For this project, I used React JS on the front and the back Node JS + Express +
-          Sequelize. I worked with MySQL database and put into practice my knowledge. In this project,
-          I've worked alone.
+    - role: Full-Stack Developer
+      time: 2022 (November) - 2023 (January)
+      company: Matematica.md SRL, Moldova
+      details: |
+        The website made is matematica.md, this is a website builder in which you can also find an
+        admin panel. In the admin panel, the owner of this site can modify the content website, colors,
+        pictures, etc. For this project, I used React JS on the front and the back Node JS + Express +
+        Sequelize. I worked with MySQL database and put into practice my knowledge. In this project,
+        I've worked alone.
 
 projects:
-    title: Projects
-    intro: >
-      This is a list of my projects on which I've worked. Some of them were side jobs.
-    
-    assignments:
-      - title: Listenify
-        link: "https://github.com/Ianec21/listenify.git"
-        tagline: "A music application, like spotify created by using Next.js and Deezer's API for fetching tracks. ( WIP )"
+  title: Projects
+  intro: >
+    This is a list of my projects on which I've worked. Some of them were side jobs.
 
-      - title: My Racing Car
-        link: "https://github.com/Ianec21/My-Racing-Car.git"
-        tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C# language as a university project. For now, you can only attach some parts on the car and drive it."
+  assignments:
+    - title: Listenify
+      link: "https://github.com/Ianec21/listenify.git"
+      tagline: "A music application, like spotify created by using Next.js and Deezer's API for fetching tracks. ( WIP )"
 
-      - title: Test.MD
-        link: "https://test.md/"
-        tagline: "An online platform to solve baccalaureate type exams. This project was a side job."
+    - title: My Racing Car
+      link: "https://github.com/Ianec21/My-Racing-Car.git"
+      tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C# language as a university project. For now, you can only attach some parts on the car and drive it."
+
+    - title: Test.MD
+      link: "https://test.md/"
+      tagline: "An online platform to solve baccalaureate type exams. This project was a side job."
 
 skills:
-    title: Skills & Proficiency
+  title: Skills & Proficiency
 
-    toolset:
-      - name: Python
-        level: 70%
+  toolset:
+    - name: Python
+      level: 70%
 
-      - name: Javascript
-        level: 95%
+    - name: Javascript
+      level: 95%
 
-      - name: React
-        level: 95%
+    - name: React
+      level: 95%
 
-      - name: HTML5 & CSS
-        level: 100%
+    - name: HTML5 & CSS
+      level: 100%
 
-      - name: C &amp; C++ &amp; C#
-        level: 70%
+    - name: C &amp; C++ &amp; C#
+      level: 70%
 
-      - name: Figma & Photoshop
-        level: 50%
+    - name: Figma & Photoshop
+      level: 50%
 
-      - name: Lua
-        level: 90%
+    - name: Lua
+      level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
