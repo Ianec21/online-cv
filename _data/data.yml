@@ -52,7 +52,7 @@ education:
   info:
     - degree: Specialised in Informatics
       university: University Politehnica Timișoara
-      time: 2022 - Present
+      time: 2022 - Present ( last year )
       details:
 
 experiences:
@@ -62,11 +62,7 @@ experiences:
       time: 2023 ( November ) - Present
       company: GAIM-SOLUTIONS
       details: |
-        At this job, I've worked as a full-stack web/mobile developer. I've created some apps like: app-builder.gaim-solutions.com,
-        StoryTaim ( available on iOS and Android soon ), JobNinja ( a part of the code was written by me ) and a CV Matcher which
-        found the perfect job for you based on your CV. The frameworks and language programming which I am using are: python, JavaScript,
-        React, NextJS, React Native ( Tamagui framework ). I've worked with OpenAI's python package, which gave me access to ChatGPT and
-        used it in our apps.
+        Being a full-stack web and mobile developer for this role, I have worked with an extensive range of latest technologies and methodologies. I have worked on and contributed to a number of websites that required my full-stack skills, and applications that are live and currently helping businesses automate their processes. My skill set includes Next.js, Python, and React Native (Tamagui framework) development, custom REST API creation, and using OpenAI's Python package to integrate AI-powered features in applications. I also have solid experience with Docker for container-based deployment, Tailwind CSS and ShadCN for building responsive and trendy UIs, and other tools that make development more efficient. By working on these projects, I have implemented numerous new technologies and best practices and continue to improve my technical skill set.
 
     - role: Full-Stack Developer
       time: 2023 ( April ) - 2023 ( November )
