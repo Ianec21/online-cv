@@ -101,7 +101,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    This is a list of my projects on which I've worked. Some of them were side jobs.
+    This is a list of my projects on which I've worked. Some of them are side jobs, unversity or work related projects.
 
   assignments:
     - title: Listenify
@@ -116,12 +116,20 @@ projects:
       link: "https://test.md/"
       tagline: "An online platform to solve baccalaureate type exams. This project was a side job."
 
+    - title: Multi-Tenant Events Page
+      link: "https://hof-news.de"
+      tagline: "An online platform which shows events in different cities from Germany. Every city has its own page with events. For this project I've used technologies like: Python, Flask, NextJS, OpenAI, Playwright. I've learned a lot about SEO and how to efficiently scrape data from other websites. This project is a multi-tenant website, which means that it can be used by multiple domains at the same time, each with their own data and settings."
+
+    - title: CV Summarizer based on OpenAI
+      link: "-"
+      tagline: "This is a tool for hiring companies which speeds up the workflow. When a e-mail with the CV is received, the backend automatically loads it and sends it to OpenAI in order to create a summary based on it. The user can fetch jobs from Germany using an API and then the user can apply to them using the CV Summarizer. This project is a side job, which I did for a company in Germany. The backend is written in Python using Flask, and the frontend is written in NextJS. The OpenAI API is used to summarize the CVs."
+
 skills:
   title: Skills & Proficiency
 
   toolset:
     - name: Python
-      level: 70%
+      level: 75%
 
     - name: Javascript
       level: 100%
