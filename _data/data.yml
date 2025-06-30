@@ -45,15 +45,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am eager to develop my professional career in an IT company where I can contribute both independently and as part of a team to achieve project goals. Currently, I am in my final year at the Polytechnic University of Timișoara, pursuing a degree in Automatics and Computers with a specialization in Informatics. Originally from the Republic of Moldova, I chose to study in Romania to deepen my knowledge and gain valuable experience in this dynamic field.
+    I am a motivated and detail-oriented IT graduate with a Bachelor's degree in Automatics and Computers, specializing in Informatics. Eager to build a strong professional career in the tech industry, I seek opportunities within forward-thinking companies where I can contribute effectively both as an individual and as part of a collaborative team. Originally from the Republic of Moldova, I chose to pursue my studies in Romania to deepen my expertise and gain hands-on experience in this fast-evolving field.
 
 education:
   title: Informatics
   info:
     - degree: Specialised in Informatics
       university: University Politehnica Timișoara
-      time: 2022 - Present ( last year )
-      details:
+      time: 2022 - 2025
+      details: Bachelor's degree
 
 experiences:
   title: Experiences
@@ -64,7 +64,8 @@ experiences:
       details: |
         Being a web and mobile developer, full stack, for this position, I have tried and explored a comprehensive set of the latest technologies and methods. I have developed and built a variety of websites which required my complete stack expertise, and applications, live and successfully helping businesses streamline their processes.
         My technical abilities include Next.js development, Python, and React Native (Tamagui framework), creating custom REST APIs, and integrating AI features using OpenAI's Python library. I also have hands-on experience with databases such as Firebase, Supabase, and MySQL, delivering the best data storage and management for applications.
-        I also have experience with Docker for container-based deployment, Tailwind CSS and ShadCN for responsive and clean UI development, and other tools that make development easier. From these projects, I have brought many new technologies and best practices into the company and am constantly improving my technical skill set.
+        I also have experience with Docker for container-based deployment, Tailwind CSS and ShadCN for responsive and clean UI development, and other tools that make development easier. I do have knowledge about SEO, google crawler, how to build international websites with multiple language support. 
+        From these projects, I have brought many new technologies and best practices into the company and am constantly improving my technical skill set.
     - role: Full-Stack Developer
       time: 2023 ( April ) - 2023 ( November )
       company: Memorator.md SRL, Moldova
@@ -109,7 +110,7 @@ projects:
 
     - title: My Racing Car
       link: "https://github.com/Ianec21/My-Racing-Car.git"
-      tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C# language as a university project. For now, you can only attach some parts on the car and drive it."
+      tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C#.This was created to be my bachelor's degree project. It is a complex project which shows my ability of programming."
 
     - title: Test.MD
       link: "https://test.md/"
@@ -123,22 +124,22 @@ skills:
       level: 70%
 
     - name: Javascript
-      level: 95%
+      level: 100%
 
     - name: React
-      level: 95%
+      level: 100%
 
     - name: HTML5 & CSS
       level: 100%
 
     - name: C &amp; C++ &amp; C#
-      level: 70%
+      level: 80%
 
     - name: Figma & Photoshop
-      level: 50%
+      level: 60%
 
     - name: Lua
-      level: 90%
+      level: 100%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
