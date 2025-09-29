@@ -9,7 +9,7 @@ sidebar:
 
   # Sidebar links
   email: jizdan.ianec17@gmail.com
-  phone: "+40 728 466 283 / +373 799 45 171"
+  phone: "+40 728 466 283 <br> +373 799 45 171"
   timezone: "Romania / Republic of Moldova"
   citizenship: Moldavian
   github: Ianec21
@@ -42,6 +42,9 @@ sidebar:
       - item: Game Development
         link:
 
+      - item: Programming
+        link:
+
 career-profile:
   title: Career Profile
   summary: |
@@ -55,66 +58,51 @@ education:
       time: 2022 - 2025
       details: Bachelor's degree
 
+    - degree: Software Engineering
+      university: West University of Timișoara
+      time: 2025 - Present
+      details: Master's degree
+
 experiences:
   title: Experiences
   info:
     - role: Full-Stack Developer
-      time: 2023 ( November ) - Present
+      time: 2023 ( November ) - 2025 ( August)
       company: GAIM-SOLUTIONS
       details: |
-        Being a web and mobile developer, full stack, for this position, I have tried and explored a comprehensive set of the latest technologies and methods. I have developed and built a variety of websites which required my complete stack expertise, and applications, live and successfully helping businesses streamline their processes.
-        My technical abilities include Next.js development, Python, and React Native (Tamagui framework), creating custom REST APIs, and integrating AI features using OpenAI's Python library. I also have hands-on experience with databases such as Firebase, Supabase, and MySQL, delivering the best data storage and management for applications.
-        I also have experience with Docker for container-based deployment, Tailwind CSS and ShadCN for responsive and clean UI development, and other tools that make development easier. I do have knowledge about SEO, google crawler, how to build international websites with multiple language support. 
-        From these projects, I have brought many new technologies and best practices into the company and am constantly improving my technical skill set.
-    - role: Full-Stack Developer
-      time: 2023 ( April ) - 2023 ( November )
-      company: Memorator.md SRL, Moldova
-      details: |
-        I was working on a mobile application for iOS and Android using React Native. This
-        application will be available on Appstore and Google Play Market. It will be useful for students
-        because in this app you can find any math, physics, or chemistry formula you need. I've used
-        React Native for the front end and Node.js for the back end. For this application, I've created an
-        admin panel too, in which you can modify the app content like adding formulas, categories, and
-        so on.
+        As a full stack web and mobile developer, I worked extensively with the latest technologies to build a variety of websites and applications that streamlined business processes and delivered measurable results.
+        My technical expertise included:
+          - Frontend & Mobile: React, Next.js, React Native (Tamagui framework), Tailwind CSS, ShadCN
+          - Backend & APIs: Node.js, Python, custom REST API development, AI integrations using OpenAI’s Python library
+          - Databases & Storage: Firebase, Supabase, MySQL ( Sequelize, Prisma ORM )
+          - DevOps & Deployment: Docker for containerized deployments
+          - Other skills: SEO optimization, multilingual websites, responsive UI development, Linux knowledge
 
-    - role: Front-End Developer
-      time: 2023 ( January ) - 2023 ( April )
-      company: Liveclass.ro SRL, Romania
-      details: |
-        I worked as a front-end developer in a team of six people: three individuals focused on the front-end, and three on the back-end. My primary goal and task were centered around creating the
-        website liveclass.ro. I held the responsibility of translating the design into code and ensuring its
-        responsiveness across various devices. Throughout this process, my work was under the
-        supervision of a senior developer with whom I collaborated closely, allowing me to acquire
-        valuable insights into design principles and optimization techniques. During this experience, I
-        utilized TypeScript and explored new tools like MUI, Axios, and Storybook
+        I introduced new technologies and best practices into projects and consistently enhanced my technical skill set to deliver high-quality solutions.
 
     - role: Full-Stack Developer
-      time: 2022 (November) - 2023 (January)
+      time: 2022 (November) - 2023 (November)
       company: Matematica.md SRL, Moldova
       details: |
-        The website made is matematica.md, this is a website builder in which you can also find an
-        admin panel. In the admin panel, the owner of this site can modify the content website, colors,
-        pictures, etc. For this project, I used React JS on the front and the back Node JS + Express +
-        Sequelize. I worked with MySQL database and put into practice my knowledge. In this project,
-        I've worked alone.
+        Developed web and mobile applications using React.js, React Native, TypeScript, Node.js, Express, and Sequelize, with MySQL, Firebase, and Supabase for data management. Built responsive interfaces and admin panels for dynamic content, translating designs into optimized, user-friendly code. Worked both independently and collaboratively, applying best practices and tools like MUI, Axios, and Storybook to deliver high-quality full-stack solutions.
 
 projects:
   title: Projects
   intro: >
-    This is a list of my projects on which I've worked. Some of them are side jobs, unversity or work related projects.
+    This is a list of my projects on which I've worked. Some of them are side jobs, unversity or work related projects which I can share.
 
   assignments:
     - title: Listenify
       link: "https://github.com/Ianec21/listenify.git"
-      tagline: "A music application, like spotify created by using Next.js and Deezer's API for fetching tracks. ( WIP )"
+      tagline: "A music application, similar to Spotify created with Next.js and Deezer's API."
 
     - title: My Racing Car
       link: "https://github.com/Ianec21/My-Racing-Car.git"
-      tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C#.This was created to be my bachelor's degree project. It is a complex project which shows my ability of programming."
+      tagline: "A game prototype based on My Summer Car game and Mon Bazou. This game was created in Unity, using C#. This was created to be my bachelor's degree project. It is a complex project which shows my ability of programming."
 
     - title: Test.MD
       link: "https://test.md/"
-      tagline: "An online platform to solve baccalaureate type exams. This project was a side job."
+      tagline: "An online platform to solve baccalaureate type exams."
 
     - title: Multi-Tenant Events Page
       link: "https://hof-news.de"
@@ -129,22 +117,22 @@ skills:
 
   toolset:
     - name: Python
-      level: 75%
+      level: 85%
 
     - name: Javascript
       level: 100%
 
-    - name: React
+    - name: React / NextJS
       level: 100%
+
+    - name: VueJS ( Nuxt )
+      level: 90%
 
     - name: HTML5 & CSS
       level: 100%
 
-    - name: C &amp; C++ &amp; C#
-      level: 80%
-
-    - name: Figma & Photoshop
-      level: 60%
+    - name: C#
+      level: 70%
 
     - name: Lua
       level: 100%
